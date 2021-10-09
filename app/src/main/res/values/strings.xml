@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_strava_login">Log into Strava</string>
+    <string name="button_get_stuff">Get some stuff</string>
+    <string name="button_get_better_stuff">Get some better stuff</string>
+    <string name="name_text" formatted="false">Hello %1$s %2$s</string>
+</resources>
